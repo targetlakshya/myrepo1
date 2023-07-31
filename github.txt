@@ -1,0 +1,10 @@
+1. Github A/C
+2. Empty Repo
+3. Local System
+	git config --global user.name "username"
+	git config --global user.email "useremail"
+4. git push -u origin master
+	-- Error 
+	4.1 username ?
+	4.2 password ?
+	
